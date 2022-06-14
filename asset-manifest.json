@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/restaurant-webdesign/static/css/main.7fa5c0c6.css",
+    "main.js": "/restaurant-webdesign/static/js/main.45993fdb.js",
+    "static/js/787.406adbef.chunk.js": "/restaurant-webdesign/static/js/787.406adbef.chunk.js",
+    "static/media/chicken.png": "/restaurant-webdesign/static/media/chicken.f56c9812b470d097db1c.png",
+    "static/media/food2.png": "/restaurant-webdesign/static/media/food2.b26d3cac29e6db8dc48f.png",
+    "static/media/food1.png": "/restaurant-webdesign/static/media/food1.fb196e46763abb73c9ed.png",
+    "static/media/cardamon.png": "/restaurant-webdesign/static/media/cardamon.442292e13ec724ed60ed.png",
+    "static/media/turmeric.png": "/restaurant-webdesign/static/media/turmeric.d24aef4765c2939e5e75.png",
+    "static/media/fern.png": "/restaurant-webdesign/static/media/fern.ee037979f8e06df824b2.png",
+    "static/media/spices-chilli.png": "/restaurant-webdesign/static/media/spices-chilli.dcfb232d0ae47388b02b.png",
+    "static/media/food22.jpg": "/restaurant-webdesign/static/media/food22.70993e567d4704e2b9da.jpg",
+    "static/media/food23.jpg": "/restaurant-webdesign/static/media/food23.1b1d45dd5223429ef65f.jpg",
+    "index.html": "/restaurant-webdesign/index.html",
+    "main.7fa5c0c6.css.map": "/restaurant-webdesign/static/css/main.7fa5c0c6.css.map",
+    "main.45993fdb.js.map": "/restaurant-webdesign/static/js/main.45993fdb.js.map",
+    "787.406adbef.chunk.js.map": "/restaurant-webdesign/static/js/787.406adbef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7fa5c0c6.css",
+    "static/js/main.45993fdb.js"
+  ]
+}
