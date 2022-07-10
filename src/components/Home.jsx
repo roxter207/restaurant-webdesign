@@ -34,6 +34,7 @@ const Title = styled.h1`
   font-size: 76px;
   font-weight: lighter;
   font-style:italic;
+  font-family: sans-serif ;
 
 `;
 
@@ -45,6 +46,14 @@ const Button = styled.button`
   border-radius: 10px;
   color:white ;
   align-items:left ;
+  cursor: pointer;
+  transition: 0.3s ease-in-out ;
+
+  &:hover{
+    width:155px ;
+    height:53px ;
+    font-size: 16px ;
+  }
 `;
 const Right = styled.div`
   flex: 1.8;
